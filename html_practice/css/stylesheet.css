@@ -12,6 +12,7 @@ h1{
     text-shadow: 1px 1px rgba(100, 34, 221, 0.952);
   }
  
-ol{
-    list-style-image: url('imgs/tinyM.png');
+ul{
+   /* list-style-image: url('imgs/tinym.png'); */
+   list-style-image: url('html_practice/images/tinym.jpg');
 }
