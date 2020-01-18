@@ -1,0 +1,17 @@
+
+h1{
+    /* make your headers #128ded color and bold */
+    color: rgb(153, 145, 125);
+    text-align:center;
+    font-weight: bold;
+}
+  h2{
+    /* make your headers #128ded color and bold */
+    color: rgba(100, 34, 221, 0.952);
+    font-weight: bold;
+    text-shadow: 1px 1px rgba(100, 34, 221, 0.952);
+  }
+ 
+ol{
+    list-style-image: url('imgs/tinyM.png');
+}
